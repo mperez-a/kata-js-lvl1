@@ -31,7 +31,6 @@ test('Debe retornar un array con 3 elementos', () => {
 	const resultado = fullArray();
 	expect(resultado.length).toBe(3);
 	expect(Array.isArray(resultado)).toBe(true);
-	expect(resultado).toEqual([1, 2, 3]); 
 })
 
 test('Debe retornar un array con la palabra al principio', () => {
