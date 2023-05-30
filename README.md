@@ -7,7 +7,7 @@ Este repositorio contiene una serie de ejercicios de katas en JavaScript para pr
 Sigue estos pasos para configurar y ejecutar las katas en tu entorno local:
 
 1. Clona este repositorio en tu ordenador utilizando el siguiente comando: git@github.com:laugarci/kata-js-lvl1.git
-2. Accede a la carpeta: cd kata-lvl1
+2. Accede a la carpeta: cd kata-js-lvl1
 3. Instala las dependencias: npm install
 4. Para ejecutar los tests: npm test
 5. Enjoy!
