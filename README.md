@@ -21,5 +21,5 @@ Si al ejecutar los tests, te aparece un error parecido a este:
               ^
         SyntaxError: Unexpected token '.'
         [...]
-1. Escribe el siguiente comando en la terminal: npm install --save-dev jest@26
+1. Escribe el siguiente comando en la terminal: `npm install --save-dev jest@26`
 2. Vuelve a intentar ejecutar npm test
